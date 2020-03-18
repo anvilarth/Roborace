@@ -1,5 +1,5 @@
 # Roborace
-GUI xWidgets project with @nickolor and @Rustem-Islamov 
+GUI xWidgets project with [@nickolor](https://github.com/nickolor) and [@Rustem-Islamov](https://github.com/Rustem-Islamov)
 
 
 Файл ex1.cpp - просто пример использования wxWidgets. еще примеры есть в контейнере
