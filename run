@@ -1,0 +1,2 @@
+g++ -c $1.cpp  `wx-config --cflags`
+g++  $1.o `wx-config --libs` -o $1 
