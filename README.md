@@ -8,7 +8,7 @@ ________________________________________________
 background.jpg - Image for main menu
 ________________________________________________
 
-run.txt - File, how to run roborace.cpp
+run - File, how to run roborace.cpp
 ________________________________________________
 
 makefile - Makefile for game
