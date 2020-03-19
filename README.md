@@ -2,19 +2,22 @@
 GUI xWidgets project with [@nickolor](https://github.com/nickolor) and [@Rustem-Islamov](https://github.com/Rustem-Islamov)
 
 
-Файл ex1.cpp - просто пример использования wxWidgets. еще примеры есть в контейнере
+Map - Folder with sample maps for play
 ________________________________________________
-commit 1
 
-Файл final - последняя версия кода (второе окно в игре, тут реализована сетка и отклик на клик мыши)
+background.jpg - Image for main menu
+________________________________________________
 
-logics - версия для терминала
+run.txt - File, how to run roborace.cpp
+________________________________________________
 
-button - стартовое окно в игре 
-_________________________________
-commit 2
+makefile - Makefile for game
+________________________________________________
 
-Кнопка с появляющимся справа изображением пока что статическим.
+image.h - Header with frontend
+________________________________________________
 
-в image.h представлена отрисовка по изменению условию можно адаптировать для вектора
-https://wiki.wxwidgets.org/An_image_panel
+roborace.h - Main header with backend
+________________________________________________
+
+roborace.cpp - Main app
